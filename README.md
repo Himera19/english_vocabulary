@@ -17,7 +17,7 @@
 - **Screen Util**: Enables support for different mobile screen sizes.
 - **HTTP**: Handles API requests and processes the results.
 
-## Requirements
+## Preferred Requirements
 - **Dart 3.5.3 or above.**
 - **Flutter 3.24.3 or above.**
 
