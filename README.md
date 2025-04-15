@@ -6,7 +6,7 @@
 ## GIF Demo
 <img src="https://github.com/Himera19/english_vocabulary/blob/master/app_preview.gif" height="450">
 
-## Features
+## Usage
 - **Word Details**: Users can view detailed information about searched words.
 - **Synonym Details**: Users can see the top 5 scored synonyms for a word.
 - **Word Filtering**: Users can filter the meanings of words based on their types.
@@ -22,18 +22,11 @@
 ---
 
 ## Requirements
-- **Dart 3.5.3**
-- **Flutter 3.24.3**
+- **Dart 3.5.3 or above.**
+- **Flutter 3.24.3 or above.**
 
 ## Setup
 1. Run `flutter run` to launch the app.
-
-## Usage
-1. **API Access**: The app fetches word information from an external API.
-2. **Local Storage**: The last 5 searched words are saved in Hive, allowing offline access.
-3. **Word Details**: Detailed information about the searched word is displayed.
-4. **Synonym Details**: The top 5 synonyms for the searched word are shown.
-5. **Filtering**: Users can filter word meanings based on word types.
 
 ---
 
