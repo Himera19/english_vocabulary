@@ -1,8 +1,6 @@
 # English Vocabulary
 **An English Vocabulary Application Made with Flutter**
 
----
-
 ## GIF Demo
 <img src="https://github.com/Himera19/english_vocabulary/blob/master/app_preview.gif" height="450">
 
@@ -19,16 +17,12 @@
 - **Screen Util**: Enables support for different mobile screen sizes.
 - **HTTP**: Handles API requests and processes the results.
 
----
-
 ## Requirements
 - **Dart 3.5.3 or above.**
 - **Flutter 3.24.3 or above.**
 
 ## Setup
 1. Run `flutter run` to launch the app.
-
----
 
 ## License
 This project is licensed under the MIT License.
